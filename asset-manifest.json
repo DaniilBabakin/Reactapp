@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DaniilBabakin/Reactapp/static/css/main.073c9b0a.css",
-    "main.js": "/DaniilBabakin/Reactapp/static/js/main.d809badf.js",
-    "static/js/787.28cb0dcd.chunk.js": "/DaniilBabakin/Reactapp/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/DaniilBabakin/Reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/DaniilBabakin/Reactapp/index.html",
-    "main.073c9b0a.css.map": "/DaniilBabakin/Reactapp/static/css/main.073c9b0a.css.map",
-    "main.d809badf.js.map": "/DaniilBabakin/Reactapp/static/js/main.d809badf.js.map",
-    "787.28cb0dcd.chunk.js.map": "/DaniilBabakin/Reactapp/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Reactapp/static/css/main.073c9b0a.css",
+    "main.js": "/Reactapp/static/js/main.e2e4c0d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reactapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Reactapp/index.html",
+    "main.073c9b0a.css.map": "/Reactapp/static/css/main.073c9b0a.css.map",
+    "main.e2e4c0d8.js.map": "/Reactapp/static/js/main.e2e4c0d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reactapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d809badf.js"
+    "static/js/main.e2e4c0d8.js"
   ]
 }
